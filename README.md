@@ -78,4 +78,4 @@
 * **24 Hours Free Trial:** Test all 14 languages and features in any game right after launch.
 * **Lifetime Activation:** Get a permanent hardware-bound key in seconds via our 24/7 Telegram Bot:
   * 🤖 **Activation Bot:** [@GlassSynthezBot](https://t.me)
-  * 💬 **Telegram Community & Support:** [Join Channel](https://t.me)
+  * 💬 **Telegram Community & Support:**[@GlassSynthezNews](https://t.me)
