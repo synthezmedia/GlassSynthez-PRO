@@ -4,14 +4,14 @@
 ### 100% Offline Real-Time AI Screen Overlay Translator for Windows Games & Apps
 ### Полностью автономный ИИ-переводчик наложения на экран для игр и приложений Windows
 
-[![OS](https://shields.io)](https://github.com)
-[![AI](https://shields.io)](https://github.com)
-[![Langs](https://shields.io)](https://github.com)
-[![Trial](https://shields.io)](https://github.com)
+[![OS](https://shields.io)](../../releases/latest)
+[![AI](https://shields.io)](../../releases/latest)
+[![Langs](https://shields.io)](../../releases/latest)
+[![Trial](https://shields.io)](../../releases/latest)
 
 <br>
 
-[![Download](https://shields.io)](https://github.com)
+[![Download](https://shields.io)](../../releases/latest)
 [![Telegram](https://shields.io)](https://t.me)
 [![itch.io](https://shields.io)](https://itch.io)
 
@@ -48,7 +48,7 @@
 ## 📦 Installation / Установка
 
 ### 🇬🇧 English
-1. Go to the **[Releases Page](https://github.com)** and download both files:
+1. Go to the **[Releases Page](../../releases/latest)** and download both files:
    * `GlassSynthez_PRO_v2.0_Core.zip`
    * `models_v2.0.zip`
 2. Extract **`GlassSynthez_PRO_v2.0_Core.zip`** into any folder (e.g., `C:\GlassSynthez`).
@@ -56,7 +56,7 @@
 4. Launch **`GlassSynthez.exe`** *(includes a full 24-hour free trial)*.
 
 ### 🇷🇺 Русский
-1. Перейдите на **[Страницу релиза](https://github.com)** и скачайте оба архива:
+1. Перейдите на **[Страницу релиза](../../releases/latest)** и скачайте оба архива:
    * `GlassSynthez_PRO_v2.0_Core.zip`
    * `models_v2.0.zip`
 2. Распакуйте **`GlassSynthez_PRO_v2.0_Core.zip`** в любую удобную папку (например, `C:\GlassSynthez`).
