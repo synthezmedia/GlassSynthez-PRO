@@ -4,16 +4,16 @@
 ### 100% Offline Real-Time AI Screen Overlay Translator for Windows Games & Apps
 ### Полностью автономный ИИ-переводчик наложения на экран для игр и приложений Windows
 
-[![Platform](https://shields.io)](https://github.com)
-[![AI Engine](https://shields.io)](https://github.com)
-[![Languages](https://shields.io)](https://github.com)
+[![OS](https://shields.io)](https://github.com)
+[![AI](https://shields.io)](https://github.com)
+[![Langs](https://shields.io)](https://github.com)
 [![Trial](https://shields.io)](https://github.com)
 
 <br>
 
-[![Download Latest Release](https://shields.io⬇️_DOWNLOAD_v2.0_(Windows_x64)-0A84FF?style=for-the-badge)](https://github.com)
-[![Telegram Bot](https://shields.io🔑_Get_Lifetime_Key_($2_USDT)-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me)
-[![itch.io](https://shields.io🎮_Page_on_itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://itch.io)
+[![Download](https://shields.io)](https://github.com)
+[![Telegram](https://shields.io)](https://t.me)
+[![itch.io](https://shields.io)](https://itch.io)
 
 </div>
 
@@ -22,8 +22,7 @@
 ## 📸 Preview / Скриншоты работы в играх
 
 <div align="center">
-  <!-- Перетащите ваши скриншоты прямо сюда при редактировании на GitHub! -->
-  <p><i>(Перетащите 1–2 игровых скриншота прямо в это место в редакторе GitHub)</i></p>
+
 </div>
 
 ---
@@ -78,4 +77,4 @@
 * **24 Hours Free Trial:** Test all 14 languages and features in any game right after launch.
 * **Lifetime Activation:** Get a permanent hardware-bound key in seconds via our 24/7 Telegram Bot:
   * 🤖 **Activation Bot:** [@GlassSynthezBot](https://t.me)
-  * 💬 **Telegram Community & Support:**[@GlassSynthezNews](https://t.me)
+  * 💬 **Telegram Community & Support:** [@GlassSynthezNews](https://t.me)
