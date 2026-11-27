@@ -4,16 +4,7 @@
 ### 100% Offline Real-Time AI Screen Overlay Translator for Windows Games & Apps
 ### Полностью автономный ИИ-переводчик наложения на экран для игр и приложений Windows
 
-[![OS](https://shields.io)](../../releases/latest)
-[![AI](https://shields.io)](../../releases/latest)
-[![Langs](https://shields.io)](../../releases/latest)
-[![Trial](https://shields.io)](../../releases/latest)
-
-<br>
-
-[![Download](https://shields.io)](../../releases/latest)
-[![Telegram](https://shields.io)](https://t.me)
-[![itch.io](https://shields.io)](https://itch.io)
+**[⬇️ Скачать / Download v2.0](../../releases/latest)** • **[🤖 Ключ за 2 USDT](https://t.me)** • **[💳 Оплата картой РФ / СБП (200 ₽)](https://boosty.to)** • **[🎮 itch.io](https://itch.io)**
 
 </div>
 
@@ -72,9 +63,10 @@
 
 ---
 
-## 🔑 Lifetime License / Пожизненная лицензия ($2 / 2 USDT)
+## 🔑 Lifetime License / Пожизненная лицензия ($2 / 200 ₽)
 
 * **24 Hours Free Trial:** Test all 14 languages and features in any game right after launch.
-* **Lifetime Activation:** Get a permanent hardware-bound key in seconds via our 24/7 Telegram Bot:
-  * 🤖 **Activation Bot:** [@GlassSynthezBot](https://t.me)
+* **Lifetime Activation (No Subscriptions):** Get a permanent hardware-bound key:
+  * 🤖 **Crypto / USDT (24/7 Auto-Delivery Bot):** [@GlassSynthezBot](https://t.me)
+  * 💳 **Карты РФ / СБП (200 ₽ через Boosty):** [boosty.to/synthezmedia](https://boosty.to)
   * 💬 **Telegram Community & Support:** [@GlassSynthezNews](https://t.me)
